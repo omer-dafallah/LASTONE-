@@ -1,0 +1,6 @@
+{
+  "name": "SWEDTEL Cloud",
+  "description": "Enterprise SaaS platform for centralized customer, multi-cloud infrastructure, FinOps, monitoring, automation, security, and support management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
